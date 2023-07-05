@@ -1,0 +1,6 @@
+codescanning:
+    level: error
+dependabot:
+  level: high
+secretscanning:
+  level: all
